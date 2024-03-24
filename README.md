@@ -1,6 +1,6 @@
 # Electric-Payment-solution-Powered_REST_API_based_ESP32
  Tensilica_Xtensa_LX6-MCU_ESP32 platform.io
- 
+
 # ESP32 RFID Time-Based Service Controller
 
 ## Overview
@@ -51,7 +51,7 @@ Putty 및 시리얼 USB 케이블
 1. Clone this repository:
 
 2. Open the project in PlatformIO.
-   
+
 4. Clean and build the project
 
 5. Connect the required hardware components to the ESP32.
@@ -69,7 +69,7 @@ Putty 및 시리얼 USB 케이블
 4. The system will activate the Relay 12V based on configured timers.
 
 5. Monitor the display for real-time information.
-   
+
 7. If you have a restful API server please add the link with open network access to the WIFI
 
 ## Configuration
@@ -137,3 +137,5 @@ Screen Services Indications
 ![image](https://github.com/zenith85/Electric-Payment-solution_With_Customized_Input_output_system/assets/25374965/46b306b1-fd8c-45d8-a562-1669ac120cc1)
 
 ![b9595ce0-928a-4dff-9230-bc64fd912560](https://github.com/zenith85/Electric-Payment-solution_With_Customized_Input_output_system/assets/25374965/ec3a0dd9-2832-464d-827a-1e0a9ea18ad5)
+
+## git information
